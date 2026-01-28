@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+PyPDF2
+pymupdf
+matplotlib
+pandas
+numpy
+
