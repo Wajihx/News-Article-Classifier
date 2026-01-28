@@ -48,8 +48,3 @@ streamlit run app.py
 ## 🎯 Model
 
 The classifier uses a fine-tuned **DistilBERT** model trained on the AG News dataset, achieving high accuracy across all four news categories.
-
-## 👤 Author
-
-**Wajih Esghayri**  
-NLP Project - Master S3
